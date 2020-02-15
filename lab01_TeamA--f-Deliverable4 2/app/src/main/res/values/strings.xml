@@ -1,0 +1,31 @@
+<resources>
+    <!-- Spinner for the drop down menu on sign up -->
+    <string name="app_name">WalkInClinic</string>
+    <string-array name="occupation">
+        <item>patient</item>
+        <item>employee</item>
+    </string-array>
+
+    <!-- Spinner for the drop down menu on operating hours -->
+    <string-array name="operatinghours">
+        <item>Regular Clinic Hours: 8AM - 8PM</item>
+        <item>Specialty Clinic Hours: 10AM - 2PM</item>
+        <item>Emergency Clinic Hours: Open 24 hours</item>
+    </string-array>
+
+    <string-array name="amOrPm">
+        <item>am</item>
+        <item>pm</item>
+    </string-array>
+
+    <string-array name="amOrPm2">
+        <item>am</item>
+        <item>pm</item>
+    </string-array>
+    <string-array name="appointmentQuarter">
+        <item>00</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>
